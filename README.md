@@ -9,9 +9,9 @@ Its purpose is to demonstrate the practical use of fundamental data structures t
 🎯 Project Goals
 
 The system allows the management of:
-Products
-Customers
-Checkout process
+Products,
+Customers,
+Checkout process,
 Transaction history
 
 🔧 Data Structures Implemented
